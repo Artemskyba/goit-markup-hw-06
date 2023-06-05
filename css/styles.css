@@ -681,7 +681,7 @@ transform: translate(-50%, -50%) scale(0);
     width: 16px;
     height: 16px;
     margin-right: 8px;
-    opacity: 0;
+    appearance: none;
 }
 
 .checkbox-default-icon {
